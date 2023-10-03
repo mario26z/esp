@@ -32,5 +32,5 @@ PrintScreen::Send #+s
 
 
 ; Symbols
-!/:: Send {Asc 0191}{Asc 63}{left 1}    ; Alt+/ -> ¿?
-!1:: Send {Asc 0161}{Asc 33}{left 1}    ; Alt+1 -> ¡!
+!/:: Send {Asc 0191}    ; Alt+/ -> ¿
+!1:: Send {Asc 0161}    ; Alt+1 -> ¡
