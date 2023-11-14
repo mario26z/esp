@@ -27,10 +27,10 @@ PrintScreen::Send #+s
 >!+u:: Send {Asc 0218}  ; Shift+(Right)Alt+u -> Ú
 !n:: Send {Asc 0241}    ; Alt+n -> ñ
 >!+n:: Send {Asc 0209}  ; Shift+(Right)Alt+n -> Ñ
-!m:: Send {Asc 230}     ; Alt+m -> µ
-!y::Send {U+03BB}       ; Alt+y -> λ
-
 
 ; Symbols
 !/:: Send {Asc 0191}    ; Alt+/ -> ¿
 !1:: Send {Asc 0161}    ; Alt+1 -> ¡
+!m:: Send {Asc 230}     ; Alt+m -> µ
+!y::Send {U+03BB}       ; Alt+y -> λ
+!`::Send {Asc 0176}     ; Alt+` -> °
