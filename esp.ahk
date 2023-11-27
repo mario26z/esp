@@ -34,3 +34,4 @@ PrintScreen::Send #+s
 !m:: Send {Asc 230}     ; Alt+m -> µ
 !y::Send {U+03BB}       ; Alt+y -> λ
 !`::Send {Asc 0176}     ; Alt+` -> °
+!d::Send {U+394}        ; Alt+d -> Δ
